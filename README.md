@@ -1,4 +1,4 @@
-# MRUCache
+# MRU (Most Recently Used) Cache
 Implementing a data structure for Most Recently Used (MRU) cache using Python. 
 It should support the following operations: get and put.
 * get(key) – Get the value (will always be positive) of the key if the key exists in the cache, otherwise return -1. 
